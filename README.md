@@ -70,6 +70,25 @@ pg_db.sql
 
 Rina Zala
 
+## Screenshots
+
+### Home Page
+
+![Home Page](home.png)
+
+### Login Page
+
+![Login Page](login.png)
+
+### Booking Page
+
+![Booking Page](booking.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](admin-dashboard.png)
+
+
 ## GitHub Repository
 
 https://github.com/zalaba1610/PG-AT-ONE-TOUCH
