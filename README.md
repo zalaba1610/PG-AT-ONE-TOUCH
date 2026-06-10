@@ -68,7 +68,7 @@ pg_db.sql
 
 ## Author
 
-Rina Zalak
+Rina Zala
 
 ## GitHub Repository
 
